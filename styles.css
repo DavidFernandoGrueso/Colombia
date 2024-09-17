@@ -1,0 +1,20 @@
+
+body {
+    background-color: #46e46e;
+  }
+  nav {
+    background-color: yellow;
+  }
+  h2 {
+    color: #3a3506;
+    margin-bottom: 20px;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
